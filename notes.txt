@@ -1,0 +1,13 @@
+Todo:
+1. Function: Reduce all.
+2. Writing down all the rules.
+3. Hashing every expression and exploring all outcomes after applying rules. 
+4. Web interface:
+   From expression to the result.
+   Without AI is just picking up right rules to apply
+   User see what rule to pick, because he sees future expression
+
+   ====================================
+
+            2 * x + 1 = 5
+            
